@@ -5,3 +5,13 @@ git diff -> compara as alteraçoes linha a linha
 git log -> listar historico de commits 
 git status -> mostrar oq mudou e oq esta na stage
 
+#git  flow
+
+cada branch tem seu papel
+
+modelo de branchs:
+main:produçao
+hotfix:correção urgente apartir da main
+realease:ajustes finais antes e lançar a versão 
+develop:integrar funcionalidades
+feature:uma funcionalidade por branch, apartir da develop
