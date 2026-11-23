@@ -1,0 +1,7 @@
+#comandos importantes
+
+git add <arquivo> -> enviar alteraçoes para area staging area
+git diff -> compara as alteraçoes linha a linha 
+git log -> listar historico de commits 
+git status -> mostrar oq mudou e oq esta na stage
+
